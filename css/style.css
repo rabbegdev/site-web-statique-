@@ -1,0 +1,146 @@
+.navbar{
+	background-color:#b9bfab;
+}
+.navbar a{
+	color:#1f261b;;
+}
+.bgh:before{
+ 
+   content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: -1;
+
+  display: block;
+  background-image: url('../images/img1.jpg');
+  background-size:cover;
+  width: 100%;
+  height: 100%;
+
+  -webkit-filter: opacity(30%);
+  -moz-filter: opacity(30%);
+  -o-filter: opacity(30%);
+  -ms-filter: opacity(30%);
+  filter: opacity(30%);
+}
+.header{
+height:727px;
+}
+.header h1{
+	width:60%;
+	font-family:Arima Madurai;
+	font-weight:600;
+	font-size:48px;
+	color:#1f261b;
+	opacity:1.0 !important;
+	padding-top:400px;
+	z-index:5;
+	
+}
+.container h2{
+	font-family:Arima Madurai;
+	font-weight:600;
+	text-align:center;
+	font-size:40px;
+	color:#1f261b;
+	padding-top:40px;
+}
+.our_section{
+	background-color:#abbca7;
+}
+.services img {
+	width:310px;
+	height:310px;
+	border-radius:15px;
+	padding:10px 0;
+	margin:10px 0;
+}
+
+.services h3{
+	font-family:Arima Madurai;
+	font-weight:400;
+	color:#1f261b;
+}
+.services p{
+	font-family:Arima Madurai;
+	font-weight:200;
+	color:#1f261b;
+}
+
+.gallery img {
+	width:310px;
+	height:450px;
+	border-radius:15px;
+	padding:10px 0;
+	margin:10px 0;
+}
+.gallery h2{
+	font-family:Arima Madurai;
+	font-weight:600;
+	text-align:center;
+	font-size:40px;
+	color:#1f261b;
+	padding-top:40px;
+}
+.contact{
+background-color:#abbca7;
+}
+.contact__address h5{
+	font-family:Arima Madurai;
+	color:#1f261b;
+	padding-top:30px;
+	font-size:30px;
+	font-weight:400;
+}
+.contact__form h5{
+	font-family:Arima Madurai;
+	color:#1f261b;
+	font-size:30px;
+	font-weight:400;
+}
+input{
+	width:100%;
+	height:45px;
+	border: 1px solid #e1e1e1;
+    border-radius: 10px;
+    margin-bottom: 20px;
+	font-size:25px;
+	border:1px solid #1f261b;
+}
+.mess{
+	width:100%;
+	height:150px;
+	border: 1px solid #e1e1e1;
+    border-radius: 10px;
+    margin-bottom: 20px;
+	font-size:20px;
+	border:1px solid #1f261b;
+	resize: none;
+}
+.site-btn{
+	font-size: 14px;
+    color: #abbca7;
+    background: #1f261b;
+    font-weight: 600;
+    border: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 12px 30px;
+    border-radius: 50px;
+	width:30% !important;
+	margin:10px 0 40px 0;
+}
+.fa-solid{
+	color:#1f261b;
+}
+.footer{
+	background-color:#1f261b;;
+}
+.footer p {
+	color:#abbca7;
+	font-family:Arima Madurai;
+	font-weight:300;
+	text-align:center;
+	padding:30px 0 30px 0;
+}
